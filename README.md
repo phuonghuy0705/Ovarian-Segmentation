@@ -9,9 +9,9 @@ Ovarian-Segmentation/
 ├── train_YOLOv8seg.ipynb
 ├── requirements.txt
 ├── OTU2D_8_layers_splitted/
-    ├── Chocolate_Cyst
-    |── High-grade_Serous_Cystadenoma
-    └──...
+│   ├── Chocolate_Cyst/
+│   └── High-grade_Serous_Cystadenoma/
+└── ...
 
 ## Bước 1: Cài đặt các package cần thiết 
 ```bash
