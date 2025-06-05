@@ -1,5 +1,6 @@
 # Ovarian-Segmentation
 ## Cấu trúc thư mục dự án 
+```bash
 Ovarian-Segmentation/
 ├── create_dataset.py
 ├── preprocess_dataset.py
@@ -12,7 +13,7 @@ Ovarian-Segmentation/
 │   ├── Chocolate_Cyst/
 │   └── High-grade_Serous_Cystadenoma/
 └── ...
-
+```
 ## Bước 1: Cài đặt các package cần thiết 
 ```bash
 pip install -r requirements.txt 
